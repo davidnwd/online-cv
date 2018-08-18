@@ -34,31 +34,35 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+        With almost 24 years of enterprise development and most of them as a hands-on developer, David has been a 
+        mentor and trainer to many technical individuals. As a specialist in Java development, he was project 
+        lead for on-and-offshore development teams in lots of projects, and an integration architect for 
+        commercial applications to custom deliverables and EAI initiatives. 
+        
+        He is a project leader and development manager by trade, and he’s got “pretty good motivational skills”.
+        With lots of background with object-oriented systems, database application design and web-based 
+        application development, David has a solid background in large-scale enterprise applications with 
+        transaction processing using Java, web technologies, .NET, messaging, and many other technologies. 
+        
+        He has tons of experience with open-source cross-platform development and integration and he is told that he 
+        is an excellent communicator.
+        
+        Having 20 years of experience in UNIX/LINUX Administration, Networking, Engineering, Support, Migration with 
+        hands-on experience in various applications on Sun Solaris, Red Hat Enterprise Linux, IBM AIX, CentOS, Ubuntu, 
+        SUSE, Oracle Enterprise Linux, environment with VMware vSphere .
+        
+        Around 2009 David went to Red Hat, teaching JBoss and related technologies. In 2012 he was hired as employee 
+        #31 at Hortonworks, one of the premier Hadoop providers in the industry, where he taught Big Data topics, 
+        and still does today. He also writes courseware for the top Big Data companies.
+        
+        David has been enamored by the Cloud, and now focuses on all things Cloud. Amazon Web Services and 
+        Google Cloud Platform are now the going thing, and its exciting. He is still hands-on with all the technologies.
 
-      Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Organizational Management
+      university: Covenant College
+      time: 1994 - 1997
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -70,9 +74,9 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: CEO
+      time: 2001 - Present
+      company: Virtuant LLC
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -165,6 +169,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Java
+        level: 95%
+        
       - name: Python & Django
         level: 98%
 
@@ -184,4 +191,5 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" 
+    rel="nofollow">Xiaoying Riley</a>
