@@ -63,59 +63,39 @@ education:
     - degree: Organizational Management
       university: Covenant College
       time: 1994 - 1997
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
 
 experiences:
     - role: CEO
       time: 2001 - Present
       company: Virtuant LLC
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Virtuant is a Cloud & Big Data training and consulting firm.
 
-          - Bullet point
-          - Bullet point 
+          - Teaches Big Data & Cloud topics of all types
+          - Created BigLMS, a corporate LMS for enterprises and training organizations
+          - Manages a team of over 25 people
+          - Manages corporate operations for Virtuant
+          - Various to date, has taught > 2400 students worldwide
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Consultant/Hadoop Instructor
+      time: 2012 - 2015
+      company: Hortonworks
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Hortonworks is one of the premier Big Data vendors.
 
-          - Bullet point
-          - Bullet point
+        - First FTE trainer @ Hortonworks
+        - Taught Hortonworks Big Data (Hadoop) distributions
+        - Authored some of original Hadoop courseware
 
-    - role: UI Developer
+    - role: Consultant/Instructor
       time: 2012 - 2014
-      company: Amazon, London
+      company: Red Hat
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Red Hat is the premier Linux vendor in the world.
 
-          - Bullet point
-          - Bullet point
+          - Taught JBoss and Java development to many students
+          - Authored JBoss courseware
+
 
 projects:
     title: Projects
