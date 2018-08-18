@@ -193,9 +193,6 @@ skills:
       - name: Application Servers
         level: 75%
         
-      - name: Web services: REST, SOAP, WSDL, SOA
+      - name: Web services like REST, SOAP, WSDL, SOA
         level: 85%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" 
-    rel="nofollow">Xiaoying Riley</a>
